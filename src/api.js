@@ -1,4 +1,4 @@
-const BASE = "http://localhost:9876";
+const BASE = "https://expense-tracker-backend-2lv6.onrender.com/";
 
 export const api = async (
     url,
